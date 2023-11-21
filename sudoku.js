@@ -1,3 +1,4 @@
+import "./styles.css";
 // We define a sudoku board as a 2D array of numbers from 1 to 9, where 0 represents an empty cell.
 // We also validate if the sudoku is valid or not. (A valid sudoku is one where there are no duplicate numbers in a row, column or subgrid)
 // We solve the sudoku using backtracking.
